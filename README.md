@@ -57,7 +57,7 @@
 
 
 
-### Primeiro semestre • 1/2023 • Consulta-vid
+### 1º Semestre • 01/2023 • Consulta-vid
 
 
 
