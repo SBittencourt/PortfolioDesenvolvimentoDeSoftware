@@ -8,58 +8,114 @@
 
 ## Sumário
 
-<p>• <a href="#Sobre-mim"> Sobre mim</a></p>
-<p>• <a href="#Meus-projetos"> Meus projetos</a></p>
+- [Sobre mim](#sobre-mim)
+- [Meus projetos](#meus-projetos)
 
-<div class="Primeiro semestre">
-  <ul>
-    <li><a href="#">1º Semestre • 1/2023 • Consulta-vid</a>
-      <details>
-        <summary>Detalhes</summary>
-        <ul>
-          <li><a href="Visão-do-projeto">Visão do projeto</a></li>
-          <li><a href="Tecnologias-adotadas">Tecnologias adotadas</a></li>
-          <li><a href="Contribuicoes-pessoais">Contribuições pessoais</a></li>
-          <li><a href="Aprendizados">Aprendizados</a></li>
-        </ul>
-      </details>
-    </li>
-  </ul>
-</div>
+### Primeiro semestre
+
+- [1º Semestre • 1/2023 • Consulta-vid](#1º-semestre--12023--consulta-vid)
+  <details>
+    <summary>Detalhes</summary>
+  
+    - [Visão do projeto](#visão-do-projeto)
+    - [Tecnologias adotadas](#tecnologias-adotadas)
+    - [Contribuições pessoais](#contribuições-pessoais)
+    - [Aprendizados](#aprendizados)
+  </details>
+
+### Segundo semestre
+
+- [2º Semestre • 2/2023 • HelpDesk](#2º-semestre--22023--helpdesk)
+  <details>
+    <summary>Detalhes</summary>
+  
+    - [Visão do projeto](#visão-do-projeto)
+    - [Tecnologias adotadas](#tecnologias-adotadas)
+    - [Contribuições pessoais](#contribuições-pessoais)
+    - [Aprendizados](#aprendizados)
+  </details>
+
+### Terceiro semestre
+
+- [3º Semestre • 3/2024 • Crtl A](#3º-semestre--32024--crtl-a)
+  <details>
+    <summary>Detalhes</summary>
+  
+    - [Visão do projeto](#visão-do-projeto)
+    - [Tecnologias adotadas](#tecnologias-adotadas)
+    - [Contribuições pessoais](#contribuições-pessoais)
+    - [Aprendizados](#aprendizados)
+  </details>
+
+---
+
+# Sobre mim
+
+---
+
+# Meus projetos
 
 
-<div class="Segundo semestre">
-    <ul>
-    <li><a href="#">2º Semestre • 2/2023 • HelpDesk</a>
-      <details>
-        <summary>Detalhes</summary>
-        <ul>
-          <li><a href="Visão-do-projeto">Visão do projeto</a></li>
-          <li><a href="Tecnologias-adotadas">Tecnologias adotadas</a></li>
-          <li><a href="Contribuicoes-pessoais">Contribuições pessoais</a></li>
-          <li><a href="Aprendizados">Aprendizados</a></li>
-        </ul>
-      </details>
-    </li>
-  </ul>
-</div>
 
-<div class="Terceiro semestre">
-    <ul>
-    <li><a href="#">3º Semestre • 3/2024 • Crtl A</a>
-      <details>
-        <summary>Detalhes</summary>
-        <ul>
-          <li><a href="Visão-do-projeto">Visão do projeto</a></li>
-          <li><a href="Tecnologias-adotadas">Tecnologias adotadas</a></li>
-          <li><a href="Contribuicoes-pessoais">Contribuições pessoais</a></li>
-          <li><a href="Aprendizados">Aprendizados</a></li>
-        </ul>
-      </details>
-    </li>
-  </ul>
-</div>
+### Primeiro semestre • 1/2023 • Consulta-vid
 
-## Sobre mim
 
-## Meus projetos
+
+#### Visão do projeto
+
+
+
+#### Tecnologias adotadas
+
+
+
+#### Contribuições pessoais
+
+
+
+#### Aprendizados
+
+
+
+---
+
+### Segundo semestre • 2/2023 • HelpDesk
+
+
+
+#### Visão do projeto
+
+
+
+#### Tecnologias adotadas
+
+
+
+#### Contribuições pessoais
+
+
+
+#### Aprendizados
+
+
+---
+
+### Terceiro semestre • 3/2024 • Crtl A
+
+
+
+#### Visão do projeto
+
+
+
+#### Tecnologias adotadas
+
+
+
+#### Contribuições pessoais
+
+
+
+#### Aprendizados
+
+
