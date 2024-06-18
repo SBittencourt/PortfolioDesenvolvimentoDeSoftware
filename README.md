@@ -25,7 +25,7 @@
 
 ### Segundo semestre
 
-- [2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI](#segundo-semestre--22023--sat---sistema-acadêmico-de-ti)
+- [2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI](#2º-semestre--22023--sat---sistema-acadêmico-de-ti)
   <details>
     <summary>Detalhes</summary>
   
@@ -37,7 +37,7 @@
 
 ### Terceiro semestre
 
-- [3º Semestre • 3/2024 • Crtl A](#3º-semestre--032024--crtl-a)
+- [3º Semestre • 3/2024 • Crtl A](#3º-semestre--32024--crtl-a)
   <details>
     <summary>Detalhes</summary>
   
