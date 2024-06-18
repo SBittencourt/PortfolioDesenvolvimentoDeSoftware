@@ -29,10 +29,10 @@
   <details>
     <summary>Detalhes</summary>
   
-    - [Visão do projeto](#visão-do-projeto)
-    - [Tecnologias adotadas](#tecnologias-adotadas)
-    - [Contribuições pessoais](#contribuições-pessoais)
-    - [Aprendizados](#aprendizados)
+    - [Visão do projeto](#visão-do-projeto-1)
+    - [Tecnologias adotadas](#tecnologias-adotadas-1)
+    - [Contribuições pessoais](#contribuições-pessoais-1)
+    - [Aprendizados](#aprendizados-1)
   </details>
 
 ### Terceiro semestre
@@ -41,10 +41,10 @@
   <details>
     <summary>Detalhes</summary>
   
-    - [Visão do projeto](#visão-do-projeto)
-    - [Tecnologias adotadas](#tecnologias-adotadas)
-    - [Contribuições pessoais](#contribuições-pessoais)
-    - [Aprendizados](#aprendizados)
+    - [Visão do projeto](#visão-do-projeto-2)
+    - [Tecnologias adotadas](#tecnologias-adotadas-2)
+    - [Contribuições pessoais](#contribuições-pessoais-2)
+    - [Aprendizados](#aprendizados-2)
   </details>
 
 ---
