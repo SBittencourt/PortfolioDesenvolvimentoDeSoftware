@@ -25,7 +25,7 @@
 
 ### Segundo semestre
 
-- [2º Semestre • 2/2023 • HelpDesk](#2º-semestre--022023--helpdesk)
+- [2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI](#segundo-semestre--22023--sat---sistema-acadêmico-de-ti)
   <details>
     <summary>Detalhes</summary>
   
@@ -90,7 +90,7 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 ---
 
-### Segundo semestre • 2/2023 • SAT - Sistema acadêmico de TI
+### 2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
@@ -122,7 +122,7 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 ---
 
-### Terceiro semestre • 3/2024 • Crtl A
+### 3º Semestre • 3/2024 • Crtl A
 
 Cliente: Youtan.
 
