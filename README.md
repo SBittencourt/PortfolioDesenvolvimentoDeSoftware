@@ -13,7 +13,7 @@
 
 ### Primeiro semestre
 
-- [1º Semestre • 1/2023 • Consulta-vid](#1º-semestre--12023--consulta-vid)
+- [1º Semestre • 1/2023 • Consulta-vid](#1º-semestre--012023--consulta-vid)
   <details>
     <summary>Detalhes</summary>
   
@@ -25,7 +25,7 @@
 
 ### Segundo semestre
 
-- [2º Semestre • 2/2023 • HelpDesk](#2º-semestre--22023--helpdesk)
+- [2º Semestre • 2/2023 • HelpDesk](#2º-semestre--022023--helpdesk)
   <details>
     <summary>Detalhes</summary>
   
@@ -37,7 +37,7 @@
 
 ### Terceiro semestre
 
-- [3º Semestre • 3/2024 • Crtl A](#3º-semestre--32024--crtl-a)
+- [3º Semestre • 3/2024 • Crtl A](#3º-semestre--032024--crtl-a)
   <details>
     <summary>Detalhes</summary>
   
