@@ -90,7 +90,7 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 ---
 
-### Segundo semestre • 2/2023 • HelpDesk
+### Segundo semestre • 2/2023 • SAT - Sistema acadêmico de TI
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
