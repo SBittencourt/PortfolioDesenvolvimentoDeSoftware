@@ -109,7 +109,6 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 - MySQL.
 - Prisma.
 - Styled Components.
-- React Native.
 - React.
 - Axios.
 
@@ -125,15 +124,25 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 ### Terceiro semestre • 3/2024 • Crtl A
 
-
+Cliente: Youtan.
 
 #### Visão do projeto
 
-
+<p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplatafora, da Fatec São José dos Campos - Prof. Jessen Vidal.
+Consiste na criação de uma aplicação web que visa facilitar o manuseio dos ativos de uma empresa, sendo acompanhar quem atualmente possui o ativo, acompanhar manutenções do ativo, entre outros.</p>
 
 #### Tecnologias adotadas
 
-
+- Figma.
+- Git.
+- GitHub.
+- TypeScript.
+- Java.
+- Jira.
+- PostgreSQL.
+- Supabase.
+- React.
+- Spring.
 
 #### Contribuições pessoais
 
