@@ -51,11 +51,12 @@
 
 # Sobre mim
 
+<p>Estudante de desenvolvimento de software multiplataforma na FATEC prof. Jessen Vidal (São josé dos campos), atualmente cursando o 3º semestre do curso.</p>
+<p>Costumo estar na área de desenvolvimento do front-end, desde a prototipação à estilização das páginas, já exerci as funções de Product Owner e Master nos dois primeiros projetos integrados.</p>
+
 ---
 
 # Meus projetos
-
-
 
 ### 1º Semestre • 01/2023 • Consulta-vid
 
@@ -164,7 +165,7 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
 
 #### Visão do projeto
 
-<p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplatafora, da Fatec São José dos Campos - Prof. Jessen Vidal.
+<p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da Fatec São José dos Campos - Prof. Jessen Vidal.
 Consiste na criação de uma aplicação web que visa facilitar o manuseio dos ativos de uma empresa, sendo acompanhar quem atualmente possui o ativo, acompanhar manutenções do ativo, entre outros.</p>
 
 #### Tecnologias adotadas
