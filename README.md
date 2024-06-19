@@ -86,12 +86,20 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 - Construção do wireframe do projeto.
 - Construção do front-end da aplicação.
+- Documentação do projeto e comunicação com o cliente(função de _product owner_).
 
 #### Aprendizados
 
 - Soft Skills:
-  
+  - Comunicação com o cliente: desenvolvido devido à função de P.O.
+  - Falar em público: desenvolvido devido às apresentações das sprints.
+
 - Hard Skills:
+  - Programação em Python.
+  - Programação em MySQL.
+  - Aprendizado de utilização do figma.
+  - Desenvolvimento com o flask, html e css, além de estilzação com o bootstrap.
+  - Aprendizado de como utilizar o github.
 
 ---
 
@@ -131,13 +139,21 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 - Construção do wireframe do projeto.
 - Construção do front-end da aplicação.
+- Documentação do projeto e organização da equipe(função de _master_).
 
 #### Aprendizados
 
 - Soft Skills:
+  - Trabalho em equipe e organização de tarefas: desenvolvido devido à função de _master_.
+  - Falar em público: desenvolvido devido às apresentações das sprints.
   
 - Hard Skills:
-
+  - Programação em Typescript e JavaScript.
+  - Desenvolvimento com Prisma.
+  - Estilização com styled componentes.
+  - Desenvolvimento com react e axios.
+  - Aprendizado de como utilizar o github(submódulos).
+    
 ---
 
 ### 3º Semestre • 3/2024 • Crtl A
@@ -166,13 +182,16 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
 
 #### Contribuições pessoais
 
-- Construção do wireframe do projeto.
-- Construção do front-end da aplicação.
+- Construção de parte do wireframe do projeto.
+- Construção do front-end da aplicação: tela de manual de usuário, cadastro de usuário, linha do tempo, correção de diferença entre páginas.
 
 #### Aprendizados
 
 - Soft Skills:
+  - Criatividade: desenvolvido devido à construção de telas da aplicação.
+  - Adaptabilidade: devido à falha em uma das sprints, tivemos que nos adaptar para retornar ao projeto.
   
 - Hard Skills:
-
+  - Melhora na utilização de Typescript e de React.
+  - Conexão do front-end feito com o back-end.
 
