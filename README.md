@@ -103,7 +103,7 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
   - Aprendizado de como utilizar o github.
  
 
-<h6 align="center"> [Link do projeto](https://github.com/APIEquipe/EquipeTechEmpireAPI) </h6>
+<h6 align="center"> Link do projeto: https://github.com/APIEquipe/EquipeTechEmpireAPI </h6>
 
 ---
 
@@ -159,7 +159,7 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
   - Aprendizado de como utilizar o github(submódulos).
 
 
-<h6 align="center"> [Link do projeto](https://github.com/FocusQuest/FocusQuestAPI)</h6>
+<h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
 
 ---
 
@@ -202,5 +202,5 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
   - Melhora na utilização de Typescript e de React.
   - Conexão do front-end feito com o back-end.
  
-<h4 align="center"> [Link do projeto](https://github.com/equipe-javali/API_3)</h6>
+<h4 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
