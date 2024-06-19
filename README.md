@@ -4,7 +4,7 @@
 ---
 
 
-<p align="justify">Trabalho semestral de caráter avaliativo da disciplina "gestão agil de projetos de software" ministrada pelo professor Eduardo Sakaue, contendo os projetos integrados(API's) realizados até o dado momento(3º semestre).</p>
+<p align="justify">Trabalho semestral de caráter avaliativo da disciplina "gestão ágil de projetos de software" ministrada pelo professor Eduardo Sakaue, contendo os projetos integrados(API's) realizados até o dado momento(3º semestre).</p>
 
 ## Sumário
 
