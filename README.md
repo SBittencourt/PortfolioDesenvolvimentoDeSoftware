@@ -61,6 +61,8 @@
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
+![Video consulta-vid](https://github.com/APIEquipe/EquipeTechEmpireAPI/assets/125694331/154afaf8-d5ef-4e97-9dfa-c343e5be52c9)
+
 #### Visão do projeto
 
 <p>Projeto desenvolvido por alunos do 1º semestre do curso de Desenvolvimento de Software Multiplatafora, da Fatec São José dos Campos - Prof. Jessen Vidal.
@@ -82,17 +84,29 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 #### Contribuições pessoais
 
-
+- Construção do wireframe do projeto.
+- Construção do front-end da aplicação.
 
 #### Aprendizados
 
-
+- Soft Skills:
+  
+- Hard Skills:
 
 ---
 
 ### 2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
+
+- Demonstração do usuário:
+https://www.youtube.com/watch?v=VdPHdYxlXpk
+
+- Demonstração do técnico:
+https://www.youtube.com/watch?v=TSAFk3LtE7U
+
+- Demonstração do Administrador:
+https://youtu.be/JQ2jtEcftic?si=HDp7_tvPqk7kb6k0
 
 #### Visão do projeto
 
@@ -115,16 +129,22 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 #### Contribuições pessoais
 
-
+- Construção do wireframe do projeto.
+- Construção do front-end da aplicação.
 
 #### Aprendizados
 
+- Soft Skills:
+  
+- Hard Skills:
 
 ---
 
 ### 3º Semestre • 3/2024 • Crtl A
 
 Cliente: Youtan.
+
+https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-2866f25f72ab
 
 #### Visão do projeto
 
@@ -146,8 +166,13 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
 
 #### Contribuições pessoais
 
-
+- Construção do wireframe do projeto.
+- Construção do front-end da aplicação.
 
 #### Aprendizados
+
+- Soft Skills:
+  
+- Hard Skills:
 
 
