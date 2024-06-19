@@ -202,5 +202,5 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
   - Melhora na utilização de Typescript e de React.
   - Conexão do front-end feito com o back-end.
  
-<h4 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
+<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
