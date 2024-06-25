@@ -195,6 +195,8 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
 
 #### Contribuições pessoais
 
+A primeira vez apenas como parte do time de desenvolvimento foi algo mais relaxante, porém o nível do projeto foi bem mais complicado, precisando pesquisar por novas ferramentas e pedir por ajuda. O maior ponto de dificuldade desse API foi a segunda sprint, na qual não conseguimos entregar o MVP por conta de imprevistos, mas, com organização, nos recuperamos na próxima sprint e conseguimos entregar o projeto completo e funcional.
+
 - Construção de parte do wireframe do projeto.
 - Construção do front-end da aplicação: tela de manual de usuário, cadastro de usuário, linha do tempo, correção de diferença entre páginas.
 
