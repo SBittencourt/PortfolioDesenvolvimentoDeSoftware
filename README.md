@@ -51,8 +51,10 @@
 
 # Sobre mim
 
-<p>Estudante de desenvolvimento de software multiplataforma na FATEC prof. Jessen Vidal (São josé dos campos), atualmente cursando o 3º semestre do curso.</p>
+<p>Sou estudante de desenvolvimento de software multiplataforma na FATEC prof. Jessen Vidal (São josé dos campos), atualmente estou cursando o 3º semestre do curso, ingressei no 1º semestre de 2023.</p>
 <p>Costumo estar na área de desenvolvimento do front-end, desde a prototipação à estilização das páginas, já exerci as funções de Product Owner e Master nos dois primeiros projetos integrados.</p>
+
+<p>Com experiência em ilustrações e design, busco sempre as interfaces mais intuitivas e inclusivas para os usuários, a possibilidade de proporcionar uma boa experiência para o cliente é o que me faz preferir o desenvolvimento front-end. Porém, planejo também me desenvolver melhor na parte de back-end nos próximos semestres, para que possa me tornar uma desenvolvedora full-stack.</p>
 
 ---
 
