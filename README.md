@@ -96,11 +96,11 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
   - Falar em público: desenvolvido devido às apresentações das sprints.
 
 - Hard Skills:
-  - Programação em Python.
-  - Programação em MySQL.
-  - Aprendizado de utilização do figma.
-  - Desenvolvimento com o flask, html e css, além de estilzação com o bootstrap.
-  - Aprendizado de como utilizar o github.
+  - Programação em Python: sei fazer com autonomia.
+  - Programação em MySQL: sei fazer com auxilio de consulta.
+  - Aprendizado de utilização do Figma: sei fazer com autonomia.
+  - Desenvolvimento com o flask, html e css, além de estilzação com o bootstrap: sei fazer com autonomia.
+  - Aprendizado de como utilizar o github: sei fazer com autonomia.
  
 
 <h6 align="center"> Link do projeto: https://github.com/APIEquipe/EquipeTechEmpireAPI </h6>
@@ -152,11 +152,11 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
   - Falar em público: desenvolvido devido às apresentações das sprints.
   
 - Hard Skills:
-  - Programação em Typescript e JavaScript.
-  - Desenvolvimento com Prisma.
-  - Estilização com styled componentes.
-  - Desenvolvimento com react e axios.
-  - Aprendizado de como utilizar o github(submódulos).
+  - Programação em Typescript e JavaScript: sei fazer com auxilio de consulta.
+  - Desenvolvimento com Prisma: sei fazer com auxilio de consulta.
+  - Estilização com styled componentes: sei fazer com ajuda.
+  - Desenvolvimento com react e axios: sei fazer com auxilio de consulta.
+  - Aprendizado de como utilizar o github(submódulos): sei fazer com autonomia.
 
 
 <h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
@@ -199,8 +199,8 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
   - Adaptabilidade: devido à falha em uma das sprints, tivemos que nos adaptar para retornar ao projeto.
   
 - Hard Skills:
-  - Melhora na utilização de Typescript e de React.
-  - Conexão do front-end feito com o back-end.
+  - Melhora na utilização de Typescript e de React: sei fazer com auxilio de consulta.
+  - Conexão do front-end feito com o back-end: sei fazer com ajuda.
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
