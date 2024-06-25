@@ -87,6 +87,8 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 #### Contribuições pessoais
 
+Como minha primeira experiência de programação, foi um grande desafio o desenvolvimento desse projeto, tanto por exercer do trabalho de P.O. quanto por ter pego a parte de front-end quase por inteiro, o que me fez ter de aprender a mexer nas ferramentas principais, a parte de prototipação e de quais perguntas deveriam ser feitas(algo que tive muita dificuldade). Porém, para o que tinha em mãos no momento, acredito que tenha sido melhor o que pude fazer, mas atualmente, vejo que poderia refazê-lo ainda melhor.
+
 - Construção do wireframe do projeto.
 - Construção do front-end da aplicação.
 - Documentação do projeto e comunicação com o cliente(função de _product owner_).
@@ -142,6 +144,8 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 
 #### Contribuições pessoais
+
+Outra vez, acabei ficando majoritariamente na parte do front, porém, mesmo com outra linguagem, o desenvolvimento desta área foi muito mais fácil, o desafio dessa vez foi a função de master. Organizar as tarefas e o burndown foi realmente difícil, assim como a distribuição de notas e as datas foi uma grande responsabilidade, mas acredito que tenha feito um bom trabalho.
 
 - Construção do wireframe do projeto.
 - Construção do front-end da aplicação.
