@@ -37,7 +37,7 @@
 
 ### Terceiro semestre
 
-- [3º Semestre • 3/2024 • Crtl A](#3º-semestre--32024--crtl-a)
+- [3º Semestre • 1/2024 • Crtl A](#3º-semestre--32024--crtl-a)
   <details>
     <summary>Detalhes</summary>
   
@@ -45,6 +45,19 @@
     - [Tecnologias adotadas](#tecnologias-adotadas-2)
     - [Contribuições pessoais](#contribuições-pessoais-2)
     - [Aprendizados](#aprendizados-2)
+  </details>
+
+
+### Quarto semestre
+
+- [4º Semestre • 2/2024 • TecSUS](#4º-semestre--22024--tecsus)
+  <details>
+    <summary>Detalhes</summary>
+  
+    - [Visão do projeto](#visão-do-projeto-3)
+    - [Tecnologias adotadas](#tecnologias-adotadas-3)
+    - [Contribuições pessoais](#contribuições-pessoais-3)
+    - [Aprendizados](#aprendizados-3)
   </details>
 
 ---
@@ -169,7 +182,7 @@ Outra vez, acabei ficando majoritariamente na parte do front, porém, mesmo com 
 
 ---
 
-### 3º Semestre • 3/2024 • Crtl A
+### 3º Semestre • 1/2024 • Crtl A
 
 Cliente: Youtan.
 
@@ -211,4 +224,64 @@ A primeira vez apenas como parte do time de desenvolvimento foi algo mais relaxa
   - Conexão do front-end feito com o back-end: sei fazer com ajuda.
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
+
+
+### 4º Semestre • 2/2024 • TecSus  
+
+Cliente: Tecsus.
+
+---
+
+#### Visão do Projeto 
+
+Projeto desenvolvido por alunos do 4º semestre do curso de **Desenvolvimento de Software Multiplataforma** da **Fatec São José dos Campos - Prof. Jessen Vidal**.  
+O objetivo do projeto foi criar um sistema de **monitoramento de estações meteorológicas**, voltado para uso em escolas, como material educacional para crianças.  
+
+A aplicação permite que os usuários acompanhem dados coletados pelas estações meteorológicas de maneira simples, intuitiva e interativa, promovendo aprendizado e conscientização sobre o meio ambiente.  
+
+---
+
+#### Tecnologias Adotadas  
+
+- **Figma**  
+- **Git**  
+- **GitHub**  
+- **TypeScript**  
+- **Java**  
+- **Jira**  
+- **PostgreSQL**  
+- **React**  
+
+---
+
+#### Contribuições Pessoais 
+
+Trabalhar neste projeto trouxe um nível maior de desafio, especialmente considerando a responsabilidade de desenvolver algo voltado para o público educacional e a conexão com um meio físico(estação). Apesar disso, a experiência adquirida em projetos anteriores contribuiu para que fosse possível superar os obstáculos com mais eficiência.  
+
+Minha atuação incluiu:  
+
+- Criação de **parte do wireframe** do projeto.  
+- Desenvolvimento do **front-end da aplicação**, incluindo:  
+  - **Tela de cadastro, listagem e edição**.  
+  - **Mapa das estações** com dados meteorológicos.  
+  - **Telas institucionais**, com foco em acessibilidade.  
+  - **Correção de inconsistências** entre páginas.  
+
+Além disso, pude aplicar aprendizados anteriores para melhorar a **integração entre o front-end e o back-end**.  
+
+---
+
+#### Aprendizados  
+
+##### Soft Skills 
+- **Criatividade:** Refinada ao projetar telas com uma abordagem lúdica para atrair o público infantil.  
+- **Adaptabilidade:** Reforçada ao ajustar o projeto com base no feedback recebido durante as sprints.  
+
+##### Hard Skills: 
+- **TypeScript e React:** Aprofundei minhas habilidades e consigo utilizá-los com mais autonomia.  
+- **Integração de sistemas:** Consolidei minha experiência na conexão do front-end com o back-end, usando ferramentas modernas.  
+
+---
+
+<h6 align="center">🔗 Link do projeto: [GitHub - TecSus](https://github.com/equipe-javali/API_4.git)</h6>  
 
