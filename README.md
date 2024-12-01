@@ -263,8 +263,8 @@ Minha atuação incluiu:
 - Criação de **parte do wireframe** do projeto.  
 - Desenvolvimento do **front-end da aplicação**, incluindo:  
   - **Tela de cadastro, listagem e edição**.  
-  - **Mapa das estações** com dados meteorológicos.  
-  - **Telas institucionais**, com foco em acessibilidade.  
+  - **Mapa das estações**.  
+  - **Telas institucionais**, com foco em facilitar o entendimento dos alunos e incentivar o aprendizado.  
   - **Correção de inconsistências** entre páginas.  
 
 Além disso, pude aplicar aprendizados anteriores para melhorar a **integração entre o front-end e o back-end**.  
