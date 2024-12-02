@@ -1,14 +1,29 @@
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/955511f7-65fc-4ac1-ba15-d2d08654c9a9" alt="Imagem centralizada" style="border-radius: 50%; width: 150px;">
+</div>
+
+
 # Portfólio das API's — Silmara Bittencourt
 <h4>Desenvolvimento de Software Multiplataforma — FATEC prof. Jessen Vidal (São josé dos campos).</h4> 
 
+# Sobre mim
+
+<p>Sou estudante de desenvolvimento de software multiplataforma na FATEC prof. Jessen Vidal (São josé dos campos), atualmente estou cursando o 4º semestre do curso, ingressei no 1º semestre de 2023.</p>
+<p>Costumo estar na área de desenvolvimento do front-end, desde a prototipação à estilização das páginas, já exerci as funções de Product Owner e Master nos dois primeiros projetos integrados.</p>
+
+<p>Com experiência em ilustrações e design, busco sempre as interfaces mais intuitivas e inclusivas para os usuários, a possibilidade de proporcionar uma boa experiência para o cliente é o que me faz preferir o desenvolvimento front-end. Porém, planejo também me desenvolver melhor na parte de back-end nos próximos semestres, para que possa me tornar uma desenvolvedora full-stack.</p>
+
+<p>Sou uma programadora web em PHP com Laravel, estagiando na Pândo Apps desde julho de 2024. </p>
+
+# Contatos
+
+[E-mail](mailto:silmarabittencourt13@gmail.com?subject=Assunto%20do%20E-mail&body=Olá,%20tudo%20bem?)
+[Linkedin](https://br.linkedin.com/in/silmara-bittencourt-243478214?trk=people-guest_people_search-card)
+
 ---
-
-
-<p align="justify">Trabalho semestral de caráter avaliativo, contendo os projetos integrados(API's) realizados até o dado momento(4º semestre).</p>
 
 ## Sumário
 
-- [Sobre mim](#sobre-mim)
 - [Meus projetos](#meus-projetos)
 
 ### Primeiro semestre
@@ -59,15 +74,6 @@
     - [Contribuições pessoais](#contribuições-pessoais-3)
     - [Aprendizados](#aprendizados-3)
   </details>
-
----
-
-# Sobre mim
-
-<p>Sou estudante de desenvolvimento de software multiplataforma na FATEC prof. Jessen Vidal (São josé dos campos), atualmente estou cursando o 3º semestre do curso, ingressei no 1º semestre de 2023.</p>
-<p>Costumo estar na área de desenvolvimento do front-end, desde a prototipação à estilização das páginas, já exerci as funções de Product Owner e Master nos dois primeiros projetos integrados.</p>
-
-<p>Com experiência em ilustrações e design, busco sempre as interfaces mais intuitivas e inclusivas para os usuários, a possibilidade de proporcionar uma boa experiência para o cliente é o que me faz preferir o desenvolvimento front-end. Porém, planejo também me desenvolver melhor na parte de back-end nos próximos semestres, para que possa me tornar uma desenvolvedora full-stack.</p>
 
 ---
 
