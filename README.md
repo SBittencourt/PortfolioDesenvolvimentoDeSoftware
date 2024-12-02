@@ -17,8 +17,9 @@
 
 # Contatos
 
-[E-mail](mailto:silmarabittencourt13@gmail.com?subject=Assunto%20do%20E-mail&body=Olá,%20tudo%20bem?)
-[Linkedin](https://br.linkedin.com/in/silmara-bittencourt-243478214?trk=people-guest_people_search-card)
+- [E-mail](mailto:silmarabittencourt13@gmail.com?subject=Assunto%20do%20E-mail&body=Olá,%20tudo%20bem?)
+<br>
+- [Linkedin](https://br.linkedin.com/in/silmara-bittencourt-243478214?trk=people-guest_people_search-card)
 
 ---
 
