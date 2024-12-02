@@ -275,7 +275,7 @@ Além disso, pude aplicar aprendizados anteriores para melhorar a **integração
 #### Aprendizados  
 
 ##### Soft Skills 
-- **Criatividade:** Refinada ao projetar telas com uma abordagem lúdica para atrair o público infantil.  
+- **Criatividade:** Refinada ao projetar telas com uma abordagem lúdica para atrair o público institucional. 
 - **Adaptabilidade:** Reforçada ao ajustar o projeto com base no feedback recebido durante as sprints.  
 
 ##### Hard Skills: 
