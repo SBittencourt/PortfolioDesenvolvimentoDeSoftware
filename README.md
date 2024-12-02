@@ -230,7 +230,7 @@ A primeira vez apenas como parte do time de desenvolvimento foi algo mais relaxa
 
 Cliente: Tecsus.
 
----
+![](https://github.com/equipe-javali/API_4/edit/sprint4/docs/MVP.gif)
 
 #### Visão do Projeto 
 
