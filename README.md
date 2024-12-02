@@ -3,7 +3,7 @@
 </div>
 
 
-# Portfólio das API's — Silmara Bittencourt
+# Portfólio — Silmara Bittencourt
 <h4>Desenvolvimento de Software Multiplataforma — FATEC prof. Jessen Vidal (São josé dos campos).</h4> 
 
 # Sobre mim
@@ -18,7 +18,6 @@
 # Contatos
 
 - [E-mail](mailto:silmarabittencourt13@gmail.com?subject=Assunto%20do%20E-mail&body=Olá,%20tudo%20bem?)
-<br>
 - [Linkedin](https://br.linkedin.com/in/silmara-bittencourt-243478214?trk=people-guest_people_search-card)
 
 ---
@@ -53,7 +52,7 @@
 
 ### Terceiro semestre
 
-- [3º Semestre • 1/2024 • Crtl A](#3º-semestre--32024--crtl-a)
+- [3º Semestre • 1/2024 • Crtl A](#3º-semestre--12024--crtl-a)
   <details>
     <summary>Detalhes</summary>
   
