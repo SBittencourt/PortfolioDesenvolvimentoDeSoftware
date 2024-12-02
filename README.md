@@ -250,7 +250,8 @@ A aplicação permite que os usuários acompanhem dados coletados pelas estaçõ
 - **Java**  
 - **Jira**  
 - **PostgreSQL**  
-- **React**  
+- **React**
+- **Redis**
 
 ---
 
