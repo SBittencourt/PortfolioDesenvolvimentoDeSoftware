@@ -283,5 +283,5 @@ Além disso, pude aplicar aprendizados anteriores para melhorar a **integração
 
 ---
 
-<h6 align="center">🔗 Link do projeto: [GitHub - TecSus](https://github.com/equipe-javali/API_4.git)</h6>  
+<h6 align="center">🔗 Link do projeto: https://github.com/equipe-javali/API_4</h6>  
 
