@@ -267,12 +267,12 @@ Trabalhar neste projeto trouxe um nível maior de desafio, especialmente conside
 
 Minha atuação incluiu:  
 
-- Criação de **parte do wireframe** do projeto.  
+- Criação de **parte do wireframe** do projeto: pude desenvolver melhor minhas habilidades de wireframe, usando como base o adminLte, para ficar um site mais próximo do padrão.
 - Desenvolvimento do **front-end da aplicação**, incluindo:  
-  - **Tela de cadastro, listagem e edição**.  
-  - **Mapa das estações**.  
-  - **Telas institucionais**, com foco em facilitar o entendimento dos alunos e incentivar o aprendizado.  
-  - **Correção de inconsistências** entre páginas.  
+  - **Tela de cadastro, listagem e edição**: cadastro, listagem e edição de parâmetro.
+  - **Mapa das estações**: mapas utilizando o Leaflet, um framework de javascript que cria um mapa interativo.
+  - **Telas institucionais**, com foco em facilitar o entendimento dos alunos e incentivar o aprendizado, através de uma linguagem mais simples e explicações didáticas sobre os cálculos.
+  - **Correção de inconsistências** entre páginas: correção de css e pequenos erros que surgiram com as integrações.
 
 Além disso, pude aplicar aprendizados anteriores para melhorar a **integração entre o front-end e o back-end**.  
 
